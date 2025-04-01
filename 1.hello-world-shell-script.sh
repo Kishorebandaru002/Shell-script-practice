@@ -1,1 +1,2 @@
-Hi, This is a hello world script mawa
+#!/bin/bash
+echo " This is kishore"
